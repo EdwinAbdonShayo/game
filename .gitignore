@@ -20,3 +20,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Godot 4 cache
+.godot/
+# System/editor stuff
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Build outputs
+export/
+*.tmp
